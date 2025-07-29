@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview  
+##  Overview  
 This project is a two player Java Chess Game and features:
 
 - Turn-based gameplay
