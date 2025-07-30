@@ -17,7 +17,7 @@ This project is a two player Java Chess Game and features:
 
 | Piece Selection | Color Customization |
 |-----------------|---------------------|
-| <img width="175" height="175" alt="Piece Selection Screenshot" src="https://github.com/user-attachments/assets/2e06a73f-06fd-4d25-a694-d1d3d4201415" /> | <img width="175" height="175" alt="Color Picker Screenshot" src="https://github.com/user-attachments/assets/c2f3e80f-42dc-4585-be72-73a73c8d1acd" /> |
+| <img width="300" height="300" alt="Piece Selection Screenshot" src="https://github.com/user-attachments/assets/2e06a73f-06fd-4d25-a694-d1d3d4201415" /> | <img width="300" height="300" alt="Color Picker Screenshot" src="https://github.com/user-attachments/assets/c2f3e80f-42dc-4585-be72-73a73c8d1acd" /> |
 | Selected pieces are outlined in green | Users can choose custom board colors |
 
 ---
