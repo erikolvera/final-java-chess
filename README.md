@@ -22,6 +22,12 @@ This project is a two player Java Chess Game and features:
 
 ---
 
+##  UML Diagram  
+<img width="650" height="650" alt="UML_diagran" src="https://github.com/user-attachments/assets/91a55ed6-6670-4d78-a094-25fc0bc47c03" />
+
+
+---
+
 ##  Features  
 -  **Interactive Board**: Click to select and move pieces with visual feedback.  
 -  **Custom Color Themes**: Pick your own board color from a popup panel.  
